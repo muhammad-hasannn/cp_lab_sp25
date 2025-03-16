@@ -1,1 +1,1 @@
-in this repo you will find all my Computer Programming Lab tasks.
+all my Computer Programming Lab tasks.
