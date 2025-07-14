@@ -1,0 +1,2 @@
+C++ is a very good language.
+You should learn C++.
